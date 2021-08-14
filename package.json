@@ -11,8 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/CarlosVilla25/LeetCode-Exercises.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "LeetCode",
+    "Algorithms"
+  ],
+  "author": "Carlos Villa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CarlosVilla25/LeetCode-Exercises/issues"
