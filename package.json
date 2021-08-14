@@ -1,0 +1,21 @@
+{
+  "name": "leetCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ex1": "node arrays/MaxConsecutivesOnes.js",
+    "ex2": "node arrays/FindNumberswithEvenNumberofDigits.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosVilla25/LeetCode-Exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosVilla25/LeetCode-Exercises/issues"
+  },
+  "homepage": "https://github.com/CarlosVilla25/LeetCode-Exercises#readme"
+}
